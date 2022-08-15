@@ -1,0 +1,62 @@
+body{
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hotelDis{
+    /* margin-top: 120px; */
+    border: 2px solid black;
+    width: 960px;
+    height: 815px;
+    border-radius: 15px 15px 15px 15px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+.divPic{
+
+    margin-top: 40px;
+    width: 350px;
+    border-radius: 15px;
+    margin-left: 200px;
+    
+}
+.divMap{
+    position: absolute;
+    top: 655px;
+    left: 58%;
+    border-radius: 0px 0px 15px 0px;
+    margin-bottom: 20px;
+}
+.map{
+    margin-left: 435px ;
+
+}
+
+  .Title{
+    margin-top: 100px;
+    padding-top: 10px;
+    margin-left: 10px;
+    font-family: fantasy;
+  }
+  .info{
+    top: 20px;
+    position: relative;
+    font-family: fantasy;
+    font-size: large;
+    margin-left: 20px;
+    
+  }
+  .headerbtn{
+     
+    position:absolute;
+    background-color: #0071c2;
+    color: white;
+    font-weight: 500;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    margin-left: 850px;
+    bottom: 330px;
+  }

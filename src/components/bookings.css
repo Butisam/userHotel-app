@@ -1,0 +1,45 @@
+.details{
+
+    padding: 10px;
+}
+ .names{
+    font-family: fantasy;
+    color: white;
+}
+
+.contact{
+    font-family: fantasy;
+}
+.cust-name{
+    font-family: fantasy;
+}
+.locations{
+    font-family: fantasy;
+}
+.price{
+    font-family: fantasy;
+}
+.hotelpic{
+  width:250px;
+  margin: 20px;
+  padding-left: 50px;
+  border-radius: 10px;
+}
+
+
+.hotelCard{
+
+    margin: 50px;
+    border: 1px solid black;
+    width: 400px;
+    height: 200px;
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    background: rgba(77, 72, 72, 0.73);
+
+  }
+  .hotelCard:hover{
+
+    box-shadow: 5px 10px #888888;
+  }
